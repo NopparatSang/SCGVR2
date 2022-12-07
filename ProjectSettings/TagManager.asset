@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wrench8
+  - Eyebolt
+  - Hook
+  - Hydraulic
+  - Hand
+  - DummyPluger
+  - Disk
+  - Lag
+  - Pipe
+  - WaterLevel
+  - Rush
+  - Hammer
+  - Micro
+  - BoltPlate
+  - "DialGauge\u200B"
+  - GuideRing
+  - Spring
+  - Ring
+  - Washer
+  - Clamp
+  - ConnectOne
+  - ConnectTwo
+  - ConnectThree
+  - Support
+  - Torque
+  - Wrench6
+  - Special
+  - SuctionSling
+  - KaneTool
+  - PumpA
+  - PumpB
+  - MechSealPlate
+  - DeepMicro
+  - SlingShaft
+  - FeelerGauge
+  - WrenchH
+  - CapnutTool
+  - WrenchL
+  - Dialgauge
+  - IGVSling
+  - Hookspanner
+  - JournalBearing
+  - CoverThrustBearingT
+  - CoverThrustBearingB
+  - HousingThrustBearingT
+  - HousingJournalBearing
+  - HousingGuard
+  - Ruler
+  - MechSeal
+  - Zinc
+  - Sleeve
+  - Locknut
+  - LabyrinthSeal
+  - CapImpeller
+  - Spray
+  - SlingGear
+  - HighSpeedGear
+  - RadialBearing
+  - BlindCover
+  - BlindCoverB
+  - CoverGearBox
+  - CouplingGuardB
+  - CouplingGuardT
+  - Coupling
+  - CouplingGuardBB
+  - CouplingGuardBT
+  - Oring
+  - Bring
+  - JournalBearingTop
+  - ThrustBearing
+  - Impeller
+  - WrenchLs
+  - Wrench4
+  - SlingHousing
+  - Crowbar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - roof
+  - Water
+  - UI
+  - Depth
+  - Blur
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
